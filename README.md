@@ -4,7 +4,7 @@
 
 # Hi there! 👋 I'm Ajay.
 
-**Infrastructure & DevOps Engineer | Denton, TX**
+**Infrastructure & DevOps/MLOps Engineer **
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-2563eb?style=for-the-badge&logo=vercel)](https://ajmanyam.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajay-m-b78351250)
