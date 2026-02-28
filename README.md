@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-Over **6+ years** working across **AWS, Azure, GCP, Linux, Terraform, and Python**. I specialize in infrastructure, SRE, and DevOps roles around production systems.
+Over **6+ years** working across **AWS, Azure, GCP, Linux, Kubernetes, Docker, Terraform, and Python**. I specialize in infrastructure, SRE, and DevOps roles around production systems.
 
 I treat infrastructure as a codebase—keeping Terraform modules small, well-named, and commented so on-call engineers can reason about changes under pressure. I usually own public cloud foundations, VPC layouts, EKS/GKE clusters, and CI/CD pipelines, ensuring deployments are predictable, secure, and silent.
 
