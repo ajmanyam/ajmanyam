@@ -4,7 +4,7 @@
 
 # Hi there! 👋 I'm Ajay.
 
-**Infrastructure & DevOps/MLOps Engineer **
+**Infrastructure & DevOps/MLOps Engineer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-2563eb?style=for-the-badge&logo=vercel)](https://ajmanyam.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajay-m-b78351250)
@@ -19,6 +19,28 @@
 Over **6+ years** working across **AWS, Azure, GCP, Linux, Kubernetes, Docker, Terraform, and Python**. I specialize in infrastructure, SRE, and DevOps roles around production systems.
 
 I treat infrastructure as a codebase—keeping Terraform modules small, well-named, and commented so on-call engineers can reason about changes under pressure. I usually own public cloud foundations, VPC layouts, EKS/GKE clusters, and CI/CD pipelines, ensuring deployments are predictable, secure, and silent.
+
+---
+
+### 🧠 AI / MLOps Expertise
+
+Bridging **DevOps** with **Machine Learning Operations** to create scalable, automated, and reliable ML pipelines.
+
+#### AI/MLOps Stack
+
+![MLflow](https://img.shields.io/badge/MLflow-%230077B5.svg?style=for-the-badge&logo=mlflow&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-%2300B0FF.svg?style=for-the-badge&logo=kubeflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-%23017CEE.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-%23FFBE00.svg?style=for-the-badge&logo=weightsandbiases&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+
+#### Highlights
+- Deployed ML models on **Kubernetes (EKS/GKE)** using **Kubeflow pipelines**.
+- Automated **model training**, **monitoring**, and **drift detection** with **MLflow + Airflow**.
+- Integrated **CI/CD for ML** workflows with GitHub Actions and Terraform.
+- Leveraged **Prometheus + Grafana** for MLOps observability.
 
 ---
 
@@ -72,7 +94,7 @@ I treat infrastructure as a codebase—keeping Terraform modules small, well-nam
 
 **Academia:**
 
-- 🏛️ **Master's in Information Technology** | DePaul University, Chicago IL (2024)
+- 🏛️ **Master's in Information Technology** | DePaul University (2024)
 - 🎓 **Bachelor's in Computer Science** | JNTU, India (2020)
 
 **Certifications:**
