@@ -100,6 +100,7 @@ Bridging **DevOps** with **Machine Learning Operations** to create scalable, aut
 **Certifications:**
 
 - 🛡️ **AWS Certified DevOps Engineer – Professional**
+- 🤖 **Qualcomm Certified AI Upskilling Developer – Professional**
 - ☁️ **Microsoft Certified DevOps – Expert**
 - 🤖 **Google Cloud AI Pathways** (Intro to Generative AI, Large Language Models, Responsible AI)
 
