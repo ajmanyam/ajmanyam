@@ -78,10 +78,10 @@ Bridging **DevOps** with **Machine Learning Operations** to create scalable, aut
 
 ### 💼 Professional Journey
 
-- **DevOps/MLOps Engineer @ T-Mobile** (May 2025 – Present)
+- **DevOps/MLOps Engineer @ T-Mobile** (June 2024 – Present)
   - Built core AWS infrastructure using Terraform and migrated ML workloads from EC2 to EKS with autoscaling.
   - Automated pipelines via GitHub Actions, replaced scattered IAM keys with IRSA, and optimized latency and error rates via CloudWatch diagnostics.
-- **Software Engineer & IT Management @ Treevah** (Feb 2025 – May 2025)
+- **Software Engineer & IT Management @ Treevah** (Feb 2023 – June 2024)
   - Managed day-to-day AWS operations (EC2, RDS) and refactored hand-written CloudFormation templates to clean, reusable Terraform modules.
   - Automated user provisioning, security audits, and migrated tools to Serverless architectures via AWS Lambda.
 - **DevOps Engineer @ Apollo Hospitals** (Nov 2019 – Dec 2022)
