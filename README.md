@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-Over **6+ years** working across **AWS, Azure, GCP, Linux, Kubernetes, Docker, Terraform, and Python**. I specialize in infrastructure, SRE, and DevOps roles around production systems.
+**Nearly 5 years** working across **AWS, Azure, GCP, Linux, Kubernetes, Docker, Terraform, and Python**. I specialize in infrastructure, SRE, and DevOps roles around production systems.
 
 I treat infrastructure as a codebase—keeping Terraform modules small, well-named, and commented so on-call engineers can reason about changes under pressure. I usually own public cloud foundations, VPC layouts, EKS/GKE clusters, and CI/CD pipelines, ensuring deployments are predictable, secure, and silent.
 
@@ -37,6 +37,7 @@ Bridging **DevOps** with **Machine Learning Operations** to create scalable, aut
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 
 #### Highlights
+
 - Deployed ML models on **Kubernetes (EKS/GKE)** using **Kubeflow pipelines**.
 - Automated **model training**, **monitoring**, and **drift detection** with **MLflow + Airflow**.
 - Integrated **CI/CD for ML** workflows with GitHub Actions and Terraform.
@@ -78,12 +79,15 @@ Bridging **DevOps** with **Machine Learning Operations** to create scalable, aut
 
 ### 💼 Professional Journey
 
-- **DevOps/MLOps Engineer @ T-Mobile** (June 2024 – Present)
+- **DevOps/MLOps Engineer @ T-Mobile** (May 2025 – Present)
   - Built core AWS infrastructure using Terraform and migrated ML workloads from EC2 to EKS with autoscaling.
   - Automated pipelines via GitHub Actions, replaced scattered IAM keys with IRSA, and optimized latency and error rates via CloudWatch diagnostics.
-- **Software Engineer & IT Management @ Treevah** (Feb 2023 – June 2024)
+- **Software Engineer & IT Management @ Treevah** (Feb 2025 – May 2025)
   - Managed day-to-day AWS operations (EC2, RDS) and refactored hand-written CloudFormation templates to clean, reusable Terraform modules.
   - Automated user provisioning, security audits, and migrated tools to Serverless architectures via AWS Lambda.
+- **Software Engineer @ BestBuy** (Oct 2024 – Feb 2025)
+  - Normalized Terraform module structure and variables for consistent Azure VM and AKS provisioning through Azure DevOps.
+  - Embedded Terraform plans into multi-stage Azure DevOps pipelines, wiring approvals and artifact promotion.
 - **DevOps Engineer @ Apollo Hospitals** (Nov 2019 – Dec 2022)
   - Administered GCP footprint (Compute, GKE, Cloud SQL) via Terraform arrays.
   - Containerized internal tools via GKE, managed SLO-style dashboards on Stackdriver, and hardened security via Cloud Build policies.
