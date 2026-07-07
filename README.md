@@ -7,7 +7,7 @@
 **Infrastructure & DevOps/MLOps Engineer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-2563eb?style=for-the-badge&logo=vercel)](https://applywizz-ajay-17643.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajay-m-b78351250)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajay-k-m-l78351250/)
 [![Email](https://img.shields.io/badge/Email-aj2dops@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aj2dops@gmail.com)
 
 </div>
