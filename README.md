@@ -16,9 +16,9 @@
 
 ### 👨‍💻 About Me
 
-**Nearly 5 years** working across **AWS, Azure, GCP, Linux, Kubernetes, Docker, Terraform, and Python**. I specialize in infrastructure, SRE, and DevOps roles around production systems.
+**Nearly 5 years** building and supporting cloud infrastructure, CI/CD pipelines, and Kubernetes platforms across **AWS, Azure, GCP, Terraform, Docker, Kubernetes, GitOps, and Python**. I specialize in DevOps, MLOps, and SRE roles around production workloads.
 
-I treat infrastructure as a codebase—keeping Terraform modules small, well-named, and commented so on-call engineers can reason about changes under pressure. I usually own public cloud foundations, VPC layouts, EKS/GKE clusters, and CI/CD pipelines, ensuring deployments are predictable, secure, and silent.
+I treat infrastructure as a codebase—delivering secure, repeatable environments that improve deployment reliability across software and ML systems. Beyond core DevOps, I work hands-on with **MLOps and Generative AI platforms**: Kubeflow, MLflow, Amazon Bedrock, LangChain, RAG, vector search, model deployment, evaluation, and LLM observability. My background spans **DevSecOps, SRE, and AIOps**—infrastructure monitoring, anomaly detection, IAM controls, automated security checks, incident response, and production reliability improvements.
 
 ---
 
@@ -55,6 +55,13 @@ Bridging **DevOps** with **Machine Learning Operations** to create scalable, aut
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
+#### MLOps & Generative AI
+![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
 #### Containers & Orchestration
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -75,22 +82,24 @@ Bridging **DevOps** with **Machine Learning Operations** to create scalable, aut
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-%23FF4F8B.svg?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 ---
 
 ### 💼 Professional Journey
 
 - **DevOps/MLOps Engineer @ T-Mobile** (May 2025 – Present)
-  - Built core AWS infrastructure using Terraform and migrated ML workloads from EC2 to EKS with autoscaling.
-  - Automated pipelines via GitHub Actions, replaced scattered IAM keys with IRSA, and optimized latency and error rates via CloudWatch diagnostics.
+  - Migrated ML batch workloads from EC2 to Amazon EKS in a hybrid cloud setup, cutting compute costs 25% and improving scalability with Kubernetes autoscaling.
+  - Built CI/CD pipelines with GitHub Actions and MLflow cutting manual effort 90%, developed serverless model evaluation workflows reducing validation cycles 50%, and deployed production LLM         and RAG services.
 - **Software Engineer & IT Management @ Treevah** (Feb 2025 – May 2025)
-  - Managed day-to-day AWS operations (EC2, RDS) and refactored hand-written CloudFormation templates to clean, reusable Terraform modules.
-  - Automated user provisioning, security audits, and migrated tools to Serverless architectures via AWS Lambda.
+  - Managed AWS infrastructure across EC2 and RDS improving environment stability 25%, and refactored hand-written CloudFormation templates into reusable Terraform modules cutting infrastructure       change time 30%.
+  - Automated user provisioning, security audits, and admin tasks with Python and boto3 saving 10 to 12 hours weekly, and migrated tools to serverless architectures via AWS Lambda.
 - **Software Engineer @ BestBuy** (Oct 2024 – Feb 2025)
-  - Normalized Terraform module structure and variables for consistent Azure VM and AKS provisioning through Azure DevOps.
-  - Embedded Terraform plans into multi-stage Azure DevOps pipelines, wiring approvals and artifact promotion.
+  - Normalized Terraform module structure and variables for consistent Azure VM and AKS provisioning through Azure DevOps, reducing provisioning errors 35% and enabling test environments 30%           faster.
+  - Embedded Terraform plans into multi-stage Azure DevOps pipelines with approvals and artifact promotion, improving traceability for cloud infrastructure alongside Java Spring Boot .                applications.
 - **DevOps Engineer @ Apollo Hospitals** (Nov 2019 – Dec 2022)
-  - Administered GCP footprint (Compute, GKE, Cloud SQL) via Terraform arrays.
-  - Containerized internal tools via GKE, managed SLO-style dashboards on Stackdriver, and hardened security via Cloud Build policies.
+  - Administered GCP footprint across Compute, GKE, and Cloud SQL via Terraform, automating provisioning of patient data systems and reducing manual deployment errors 75%.
+  - Containerized 12 healthcare applications with Docker on GKE supporting 500,000 plus daily transactions at 99.9% uptime, with SLO dashboards on Stackdriver and security hardening via Cloud         Build policies.
 
 ---
 
